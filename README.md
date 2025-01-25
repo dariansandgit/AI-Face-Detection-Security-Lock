@@ -1,1 +1,2 @@
 # AI-Face-Detection-Security-Lock
+An AI-powered facial recognition function that allows access to the owner or owners, or a lock security system that requires a keypad passcode entry. The display, servo motor, LEDs, and keypad passcode entry are all controlled by an ATmega328P, and the facial recognition function is handled by a Raspberry Pi. Prioritizing security while preserving an intuitive user interface was the goal of this project.
